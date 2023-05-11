@@ -1,0 +1,2 @@
+# Became friends
+The whale wanted to jump to him, and she started to talk with you. She told you a lot of stories about how she was in the sky. Since that day, they became good friends. The whale was friendly. They started to hang out frequently. The whale reveals her name. Her name was Nala. 
