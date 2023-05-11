@@ -6,4 +6,4 @@ One day, your mother told you to go to the lake to fill up a bucket of water. As
 What do you do?
 
 [Run away!](/runaway.md)
-[Became friends] (/friends.md)
+[Became friends](/friends.md)
