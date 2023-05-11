@@ -4,3 +4,4 @@ When you see the whale, you become so afraid that you drop your bucket and start
 What do you do? 
 
 [Close your eyes](/close_eyes.md)
+[Fight the whale](/fight.md)
