@@ -3,5 +3,7 @@ Long ago, a big whale lived in the sky. The whale swam in the clouds during the 
 
 One day, your mother told you to go to the lake to fill up a bucket of water. As you were walking to the lake, you look up and see the whale above you. It's looking at you. 
 
-What do you do next?
+What do you do?
+
+[Run away!](/runaway.md)
 [Became friends] (/friends.md)
