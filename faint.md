@@ -1,2 +1,2 @@
 # Faint
-When you saw a whale you got so scared so you fainted. The next thing you see is waking up inside the whale's stomach. 
+When you saw a whale you got so scared so you fainted. The next thing you see is waking up inside the whale's stomach. Now you are panicking and trying to find a soltion to this situation. You decided to eat the rest of the fish inside of the whale's stomach.
