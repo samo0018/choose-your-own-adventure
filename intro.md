@@ -7,6 +7,7 @@ What do you do?
 
 [Run away!](/runaway.md)
 [Became friends](/friends.md)
+[Faint](/faint.md)
 
 Do you want to know how that end?
 [end](/theend.md)
